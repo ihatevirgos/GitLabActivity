@@ -1,0 +1,12 @@
+# Build output
+bin/
+obj/
+
+# Editor / tool folders
+.vs/
+.vscode/
+.qodo/
+
+# User-specific files
+*.user
+*.suo
